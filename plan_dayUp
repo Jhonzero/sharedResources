@@ -1,0 +1,75 @@
+提升计划 dayUp_plan！
+
+explain：整理各个大类下的知识框架（粗略）
+
+一、Java
+
+
+
+
+
+
+二、Java EE
+1、Spring
+2、ORM
+  1）Hibernate
+  2）MyBatis
+  3）JPA
+
+
+
+
+三、DataBase
+1、SQL
+  1）Oracle
+  2）MySql
+  3）
+  
+2、NoSQL（非关系型数据库，也可作为缓存使用）
+  1)Redis
+  2)MongoDB
+  
+
+
+
+
+四、Server
+1、Apache
+2、Tomcat
+3、Jetty
+4、
+
+
+
+
+
+五、Distribute
+1、网络
+  1）HTTP
+  2）TCP/IP、UDP
+  3）other protocols
+
+2、序列化
+  1）protobuf (google)
+  2) 
+
+3、传输
+  1）IO、NIO、Netty、Mina
+  2)
+
+4、消息服务
+  1）JMS
+  2）MQ（ActiveMQ、RabbitMQ、RocketMQ） message queue，消息队列。用于消息分发
+
+
+
+六、Microservice
+1、Spring boot
+2、Spring Cloud
+
+
+
+
+
+
+
