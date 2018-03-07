@@ -3,7 +3,18 @@
 explain：整理各个大类下的知识框架（粗略）
 
 一、Java
-
+1、basic
+2、IO
+3、multiThread
+4、collection
+5、泛型
+6、reflection，反射
+7、exception(通过各种不同的类来实现)
+8、
+9、
+10、JVM
+11、algorithm
+12、DesinPatterns
 
 
 
@@ -69,7 +80,8 @@ explain：整理各个大类下的知识框架（粗略）
 
 
 
-
+七、Architecture
+1、
 
 
 
